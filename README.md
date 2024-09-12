@@ -1,5 +1,3 @@
-https://github.com/mrsaurabhkanade/Awak_Frontend_Assignment/tree/master
-
 
 ## Front-End Development Assignment : Login Page
 
@@ -9,7 +7,7 @@ This project is a simple login page built using HTML5, CSS3, and JavaScript, int
 
 Check out the live demo here:
 
-Live Demo : https://mrsaurabhkanade.github.io/Awak_Frontend_Assignment/
+Live Demo : 
 
 
 ## Setup Instructions 
@@ -19,7 +17,7 @@ Live Demo : https://mrsaurabhkanade.github.io/Awak_Frontend_Assignment/
 
 
 2. Navigate to the project folder:
-   cd Awac-Web-Assigment
+   cd FrontEndAssignment
 3. Open the index.html file in your browser:
    open index.html
 
